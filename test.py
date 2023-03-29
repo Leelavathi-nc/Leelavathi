@@ -14,3 +14,4 @@ def is_prime(n):
 
 # Test the function with some example numbers
 print(is_prime(15))
+print(is_prime(20))
