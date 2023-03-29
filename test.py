@@ -13,6 +13,5 @@ def is_prime(n):
     return True
 
 # Test the function with some example numbers
-print(is_prime(5))   # Output: True
-print(is_prime(10))  # Output: False
-print(is_prime(23))  # Output: True
+print(is_prime(15))
+print(is_prime(20))
