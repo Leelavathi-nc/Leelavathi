@@ -1,0 +1,125 @@
+How much is fixed component (in lakhs) of your CTC?
+10.3LPA   (CTC = 1030000)
+
+How much is fixed component (in lakhs) of your CTC?
+82400
+
+Expected ctc 30% hike of my current ctc (1339000) in hand 100700
+relevant experience 3.3 years
+
+Versions
+python3.5
+django 2.5
+flask  1.4
+PostgreSQL 13 And 14
+MySQL 8.0
+the libraries used in our projects are json, os, sys, random, request, requests, csv, pickle, base64.
+
+work role and responsibilities
+
+Previous companies details
+
+Tower B, Building, 14, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002
+-----------------------------------------------------------------------------------------
+
+SELF INTRODUCTION
+
+Hello NAME, my name is Leelavathi . And I have 3.7 years of experience in Developing web applications.
+Currently I am working for Axtria - Ingenious Insights from past 2.1 years as a software engineer.
+Prior to this I was working for Ciena as a software associate and I worked there for 1 years.
+I contributed 2 projects with technologies like python django flask and databases like Mysql, postgresql.
+-----------------------------------------------------------------------------------------
+PROJECT DETAILS
+project2
+https://capitaltravel.ae/
+And current project is Capital Travels and it is a python based project using Django framework
+and this application is used for booking tourism destinations.
+This application helps users  to search for and book travel experiences in various cities around the world.  
+Tourism Destination can be updated and deleted by the site admin using Django admin panel.
+here the user can book the tickets and aslo the palces
+I was involved in creating the bakcned application of the website
+yes it is live
+yes , people wil use to book
+---------------------------------------------------------------------------------------------------------------------------
+My specific roles included Understanding the Requirements.
+Involved in Customer information
+I work on enhancing the code and fixing the bugs.
+developing the pyhon code for the business logic.
+creted api endpionts based on the clinet requiremtn
+Involved in finding root cause analysis and fixing issues
+Worked as Individual contributor and team member
+------------------------------------------------------------------------------------------------------------------------------
+Southern Phone, Australia
+This is a project that aims to create a Python-based application for the Southern Phone Australia network. The application will enable users to manage their accounts, check their usage and make payments. It will also provide information about the network's services and products, as well as customer service support. The application will be designed to be cross-platform, with versions available for both Android and iOS devices. The project will make use of the popular Python programming language and the most suitable development frameworks. The application will also include a secure payment gateway, allowing users to make payments with their credit cards.
+Roles and responsibilities
+• Responsible for developing the software solution based on the project requirements.
+• Designs, develops, tests, and debugs Python code.
+• Implements algorithms and data structures to meet the project requirements.
+• Utilizes database technologies to store and retrieve data.
+
+we Used SQL for modifying, inserting, querying the data in the database. Implemented code using MVT architecture.
+for code colobration we used github
+
+request user, request module and to connect to AWS we used boto3 and .
+feed back , feedback API and count of feddbacks.
+
+worked in test driven development wit 2 week sprintimpl
+
+---------------------------------------------------------------------------------------------------------------------------
+DAY to DAY activities
+
+I used to carry out day to day activities like I would get assigned to a task in Jira for enhancing or developing
+new functionalities according to the requirement and I used to implement code using MVT architecture.
+I would work on backend URL mapping and also need work with json data for parsing and storing into database.
+Need to work on tickets raised in Jira for bug fixings.
+Involved in Code Reviews and Code Refactoring
+Define the backend logics and integrating front end and back end.
+Work with the front-end team to create API interfaces.
+We use Jira for bug tracking and we use docker for running the application server and
+MySQL for database interactions storing the data into database by creating new models or
+Mapping the existing models for achieving the required functionality and we use tools like
+postman to test the API end points and, GitHub for code collaborations.
+
+PROJECT 2#:
+PROJECT DETAILS
+Title : Capital Travels
+
+Role : Backend Developer.
+
+Duration : Nov 2020 to till date.
+
+Environment : Python, Django, GIT, Agile, PostgreSQL
+
+Description :      It is a Python & Django based web application used for booking tourism destinations. Users can login into the site and book their choice of destinations available.
+Tourism Destination
+• Involving in Code reviews, Code refactoring while creating Pull requests
+• Developing thcan be updated and deleted by the site admin using Django admin panel.
+
+Roles & Responsibilities:
+e python code for the business logic
+• Worked closely with client to understand Requirements, Functional Analysis and Technical Analysis
+• Involved in Agile, Scrum methodology with Sprint implementation
+• Aided with definition, structuring and documentation of data sources as per requirements.
+• Performed unit testing, system integration testing, and assist with user acceptance testing.
+• Maintained project documentation relating to testing, coding, and logic of processes.
+• Used Git, Bit Bucket for repository management.
+• Created use case diagrams, writing code, writing test scenarios, perform unit and integration testing, production support and preparing documentation.
+
+PROJECT 1#
+Project Title : Southern Phone, Australia
+Role : Python Developer
+Technologies : Python, Django, GIT, PostgreSQL, Docker, Agile, Scrum
+Duration : Aug 2019 to Oct 2020
+
+Description:
+Southern Phone one of the largest and most successful providers of fixed line, mobile and
+Internet communications services in regional Australia. It’s Connecting Australia with great
+value broadband, mobile and home phone services. An e- commerce product of mobile phone
+with data to sell products to the consumers over the internet. The Administrator of the site can
+organize all products and their related information online and allow users to shop and order
+online. The users can search for the required products and place the order by selecting the
+products using shopping cart. Features &amp; Functionality Product management. To create and
+relate the products with multiple categories. Create SEO friendly URL for each of the product.
+
+Project flow:
+
